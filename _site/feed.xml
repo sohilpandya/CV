@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Full Stack Javascript Developer</description>
+    <link>http://www.sohipandya.com/</link>
+    <atom:link href="http://www.sohipandya.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Jan 2016 22:02:16 +0000</pubDate>
+    <lastBuildDate>Mon, 18 Jan 2016 22:02:16 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>About</title>
+        <description>&lt;!-- &lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/about/group-fac.JPG&quot; alt=&quot;Appolo for Jekyll&quot; /&gt; --&gt;
+
+&lt;p class=&quot;content__item-center&quot;&gt;
+&lt;h3 id=&quot;section_title&quot;&gt;History&lt;/h3&gt;
+
+I’ve spent most of my formative years in London, after finishing education I spent time as an intern for TeamsOnCloud, where apart product management and analysis, I was also very lucky to spend a lot of time with our development team, that’s when I took a genuine interest in programming.
+
+I took a giant step towards becoming a developer when I partook in a coding bootcamp at Founders and Coders over the last quarter of 2015. Apart from being one of the very few full-time bootcamps to run in the UK, it is the only one that is absolutely free, and it’s fair to say that it was one of the best experiences of my life!
+
+&lt;img class=&quot;content__item-img-center animated zoomIn&quot; src=&quot;/images/about/group-fac.JPG&quot; alt=&quot;Appolo for Jekyll&quot; /&gt;
+
+&lt;h3 id=&quot;section_title&quot;&gt;Present&lt;/h3&gt;
+
+I am currently a Freelance Full Stack Javascript Developer at Founders and Coders in London. Over the last few years, I have worked on a various projects for clients, friends &amp;amp; family using the following technologies:
+
+&lt;/p&gt;
+
+&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;strong&gt;Languages&lt;/strong&gt;
+&lt;/td&gt;&lt;td&gt;Javascript
+&lt;/td&gt;&lt;td&gt;Node
+&lt;/td&gt;&lt;td&gt;HTML
+&lt;/td&gt;&lt;td&gt;CSS
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;strong&gt;Framworks&lt;/strong&gt;
+&lt;/td&gt;&lt;td&gt;Hapi
+&lt;/td&gt;&lt;td&gt;React
+&lt;/td&gt;&lt;td&gt;jQuery
+&lt;/td&gt;&lt;td&gt;Bootstrap
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;strong&gt;Databases&lt;/strong&gt;
+&lt;/td&gt;&lt;td&gt;Redis
+&lt;/td&gt;&lt;td&gt;MongoDB
+&lt;/td&gt;&lt;td&gt;PostgreSQL
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;strong&gt;Testing&lt;/strong&gt;
+&lt;/td&gt;&lt;td&gt;Tape
+&lt;/td&gt;&lt;td&gt;Mocha
+&lt;/td&gt;&lt;td&gt;QUnit
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;strong&gt;Tools&lt;/strong&gt;
+&lt;/td&gt;&lt;td&gt;Git
+&lt;/td&gt;&lt;td&gt;npm
+&lt;/td&gt;&lt;td&gt;Heroku
+&lt;/td&gt;&lt;td&gt;Amazon Web Services
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;strong&gt;Tools&lt;/strong&gt;
+&lt;/td&gt;&lt;td&gt;Markdown
+&lt;/td&gt;&lt;td&gt;Jekyll
+&lt;/td&gt;&lt;td&gt;Wordpress
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td class=&quot;colored&quot;&gt;&lt;strong&gt;Visualization&lt;/strong&gt;
+&lt;/td&gt;&lt;td&gt;D3
+&lt;/td&gt;&lt;td&gt;Leaflet
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+</description>
+        <pubDate>Tue, 05 Jan 2016 09:00:00 +0000</pubDate>
+        <link>http://www.sohipandya.com/about</link>
+        <guid isPermaLink="true">http://www.sohipandya.com/about</guid>
+        
+        
+        <category>web</category>
+        
+      </item>
+    
+      <item>
+        <title>Projects</title>
+        <description>&lt;h1 id=&quot;coming-soon&quot;&gt;Coming Soon&lt;/h1&gt;
+</description>
+        <pubDate>Sat, 26 Dec 2015 09:32:24 +0000</pubDate>
+        <link>http://www.sohipandya.com</link>
+        <guid isPermaLink="true">http://www.sohipandya.com</guid>
+        
+        
+        <category>web</category>
+        
+      </item>
+    
+  </channel>
+</rss>

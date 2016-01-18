@@ -1,0 +1,21 @@
+# Site settings
+title: 
+email: sohil.pandya@teamsoncloud.com
+description: "Full Stack Javascript Developer"
+info: "Founders and Coders"
+message: "Sohil Pandya"
+keywords: "mac,apple,iphone,ios,osx,games,apps,development"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.sohipandya.com" # the base hostname & protocol for your site
+twitter_username: sohil_is
+# Build settings
+markdown: kramdown
+author:
+    name: Sohil Pandya
+    twitter: sohil_is
+    url: http://www.sohilpandya.com
+    header_bg: /images/rsz_tough-mudder.jpg
+    avatar: /images/sohil.jpg
+    email: sohil.pandya@teamsoncloud.com
+facebook:
+    image: /images/delightfuldev-facebook-cover.png
