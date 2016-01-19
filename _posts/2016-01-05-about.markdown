@@ -29,7 +29,6 @@ tagline: "Freelance Developer"
  I am currently a Freelance Full Stack Javascript Developer at Founders and Coders in London. Over the last few years, I have worked on a various projects for clients, friends & family using the following technologies:
 
 
-{% endtextalign %}
 
 
 
@@ -42,3 +41,8 @@ tagline: "Freelance Developer"
 **Tools** >> Markdown >> Jekyll  >> Wordpress >>  
 **Visualization** >> D3 >> Leaflet >>  >>  
 {% endtable %}
+
+{% section_title Future %}
+
+
+{% endtextalign %}
