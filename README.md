@@ -6,8 +6,7 @@ I've spent most of my formative years in London, after finishing education I spe
 
  I took a giant step towards becoming a developer when I partook in a coding bootcamp at Founders and Coders over the last quarter of 2015. Apart from being one of the very few full-time bootcamps to run in the UK, it is the only one that is absolutely free, and it's fair to say that it was one of the best experiences of my life!
 
-{% img center | /images/about/group-fac.JPG | Appolo for Jekyll %}  
-
+![group-fac](https://cloud.githubusercontent.com/assets/2305591/12416209/fba9daf6-be97-11e5-88ac-d07304707fc9.jpg)
 
  I am currently a Freelance Full Stack Javascript Developer at Founders and Coders in London. Over the last few years, I have worked on a various projects for clients, friends & family using the following technologies:
 
