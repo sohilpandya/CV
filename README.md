@@ -39,7 +39,6 @@ An app that animates a user's travel journey from one tube station to another.
 #### CreepyGit
 An app that provides visualisation of followers/following  on Github and the ability to follow back users that you are not currently following with a signle click.  
 **[Node, D3, GitHub API]**
-![]()
 #### React Final Countdown
 A module built for React that allows developers to add a timer onto the page for checkout purposes.
 **[Node, React, React-DOM]**
