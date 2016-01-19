@@ -22,6 +22,14 @@ I've spent most of my formative years in London, after finishing education I spe
 |Markdown   |         Leaflet   |           |              | |
 |           |                   |           |              | |
 
+#### Projects
+Friends-of-Sindhbad
+Tuber
+MoodNews
+FASapp
+TeamMunch
+
+
 ### Future
 
 
