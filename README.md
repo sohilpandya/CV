@@ -53,7 +53,7 @@ An App that produces Delivery Quotes for a Fine Arts Shipping company.
 Confidential at this stage   
 **[Hapi, Redis, Handlebars, OAuth, Stripe]**
 #### Contributions to Open Source projects on GitHub
-In my spare time, I have helped out in the open source community by making a few pull requests and a few commits to various repos.
+In my spare time, I have helped out in the open source community by making pull requests and a few commits to various repos.  
 
 ### Future
 
