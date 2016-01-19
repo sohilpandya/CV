@@ -12,17 +12,16 @@ I've spent most of my formative years in London, after finishing education I spe
  I am currently a Freelance Full Stack Javascript Developer at Founders and Coders in London. Over the last few years, I have worked on a various projects for clients, friends & family using the following technologies:
 
 
+| Languages | Frameworks/Libraries | Testing   | Tools/Others | Databases |
+|:---------:|:--------------------:|:---------:|:------------:|:---------:|
+| Javascript| Hapi              | Tape      | Git          | Redis|
+| Node      | React             | Mocha     | npm          | MongoDB   |
+| HTML      |    jQuery         | QUnit     |   Heroku     | PostgreSQL |
+| CSS       |     Bootstrap     | Lab       | Amazon Web Services    | |
+| SQL       |     D3            |           |              | |
+|Markdown   |         Leaflet   |           |              | |
+|           |                   |           |              | |
 
 
-
-{% table %}
-**Languages** >> Javascript >> Node >> HTML >> CSS
-**Framworks** >> Hapi >> React >> jQuery >> Bootstrap
-**Databases** >> Redis >> MongoDB >> PostgreSQL >>  
-**Testing** >> Tape >> Mocha >> QUnit >>   
-**Tools** >> Git >> npm >> Heroku >> Amazon Web Services
-**Tools** >> Markdown >> Jekyll  >> Wordpress >>  
-**Visualization** >> D3 >> Leaflet >>  >>  
-{% endtable %}
 
 
