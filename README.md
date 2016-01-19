@@ -27,7 +27,6 @@ I've spent most of my formative years in London, after finishing education I spe
 A Website thats raising funds for animals in need through Knit, Stitch and Crochet.  
 **[Wordpress]**  
 [Link](http://friends-of-sindhbad.org.uk/)
-![]()  
 #### ArtisTracker
 A web app that allows users to search for the latest music and pictures which have been uploaded to instagram and soundcloud by Artists. The website uses APIS from the two services to aggregate up-to-date information on a fan's favourite music artist.   
 **[Soundcloud API, Instagram API]**  
@@ -40,7 +39,7 @@ An app that animates a user's travel journey from one tube station to another.
 An app that provides visualisation of followers/following  on Github and the ability to follow back users that you are not currently following with a signle click.  
 **[Node, D3, GitHub API]**
 #### React Final Countdown
-A module built for React that allows developers to add a timer onto the page for checkout purposes.
+A module built for React that allows developers to add a timer onto the page for checkout purposes.  
 **[Node, React, React-DOM]**
 #### [Property Funder (LBS Hackathon Winning Project)](http://www.thepropertyfunder.space/)
 A Crowdfunding website for the International property market.  
