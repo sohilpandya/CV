@@ -50,7 +50,7 @@ An app that animates a user's travel journey from one tube station to another.
 ![imac copy](https://cloud.githubusercontent.com/assets/2305591/12433736/bd85ac10-befa-11e5-9463-073e8ff99fad.png)
 
 #### CreepyGit
-An app that provides visualisation of followers/following  on Github and the ability to follow back users that you are not currently following with a signle click.  
+An app that provides visualisation of followers/following  on Github and the ability to follow back users that you are not currently following with a single click.  
 **[Node, D3, GitHub API]**
 
 #### React Final Countdown
