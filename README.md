@@ -1,70 +1,95 @@
 # CV - Sohil Pandya (WIP)
 
-## Past
-I've spent most of my formative years in London, after finishing education I spent time as an intern for TeamsOnCloud, where apart from product management and analysis, I was also very lucky to spend a lot of time with our development team.
+## dwyl projects                                                                                           
+2016 - current
 
- I took a giant step towards becoming a developer when I partook in a coding bootcamp at [Founders and Coders](foundersandcoders.org) over the last quarter of 2015. Apart from it being one of the very few full-time bootcamps to run in the UK, it is the only one that is absolutely free! And it's fair to say that it was one of the best experiences of my life!
+dwyl is a product agency that works with the tech for good sector and open source products. For the last year, I’ve worked with them as a freelancer on both internal and external projects
 
-![group-fac](https://cloud.githubusercontent.com/assets/2305591/12416209/fba9daf6-be97-11e5-88ac-d07304707fc9.jpg)
+**Quodl: City University, Lead Developer** 
+https://github.com/cul-2016/quiz
+•	Real-time Quiz application to enhance the student learning experience
+•	Guardian University Teaching Excellence Award – runner up http://www.city.ac.uk/news/2017/march/the-online-quiz-app-transforming-teaching-at-city   
+•	Lead developer: set the technical direction and quality standards for the project
 
-## Present
+**ce100: Ellen MacArthur Foundation, Developer** 
+https://github.com/emfoundation/ce100-app 
+•	A networking, knowledge sharing and collaboration platform for the Circular Economy 100 network https://www.ellenmacarthurfoundation.org/circular-economy 
+•	Brought onto the project for my ability to rapidly implement new features on an existing codebase
 
- I am currently a Freelance Full Stack Javascript Developer at Founders and Coders in London. Over the last year, I have worked on various projects for clients using the following technologies:
+**Time: dwyl, Lead Developer & Product Owner**
+https://github.com/dwyl/time-apple-watch-app 
+•	Time tracking app for iOS and apple Watch
+•	The first internal product to start development in dwyl, it is currently on testflight for internal testing
+•	I learnt Swift and the Apple SDK for the iPhone and Apple watch MVP
+
+**Learn Apple Watch Development, Author** 
+https://dwyl.gitbooks.io/learn-apple-watch-development/content/ 
+•	Open Source Collection of guided tutorials and reading material for someone getting started with iOS and Swift
+•	One of the philosophies at dwyl is to make sure the next person that learns something new does so in less time than it took you. My ongoing learnings from the Time app have culminated in this book 
+
+**Thomas Cook, Developer**
+•	Part of the product API development team
+•	I was bought on to document the product API so that the understanding could be improved for the technical and non-technical people at Thomas Cook
 
 
-| Expertise |
-|:---------:|
-| Javascript|
-| Node |
-| React / Redux |
-| PostgreSQL |
-| Redis |
 
+## External projects
 
+**Higgers, Interim CTO**                                                                                              
+Jul 2017 – current 
+•	All in one Marketplace for event vendors and traders
+•	Acting as the interim CTO 
+•	Set the direction of development for the product, help the team by working as a QA and a scrum master
 
-### Projects  
+**Hoofprints, QA**                                                                                                          Jul 2017 
+https://hoofprints-demo.herokuapp.com 
+•	Real-time tracking for animals, using hardware made by Hoofprints which is currently being trialled on farms in Scotland
+•	PWA due to the nature of the usage for the app as it would mainly be used outdoors in areas with low signal coverage
+•	Supported the Development team so that the MVP was delivered on time and within budget
 
-#### City University London: Quiz app
-**[Hapi, React, Redux, PostgreSQL]**
+**Berkeley Homes, Scrum Master**                                                                                            Apr 2017 
+https://github.com/berkeley-homes/near-miss-positive-intervention 
+•	App for reporting accidents/hazards at building sites for Berkeley Homes
+•	Managed the backlog of features for the developers alongside liaising with the client
 
-#### Spark: Social event organiser
-An App that makes organising social events and sharing photos easy.
-**[Hapi, React, Redux, Redis]**
+## UI/UX Experience
 
-#### FASapp: Quotes for shipping company
-An App that produces Delivery Quotes for a Fine Arts Shipping company.  
-**[Hapi, Redis, Handlebars]**
+**TeamsOnCloud, UI/UX Developer**
+Sep 2014 – Aug 2015
+•	Creation of customisable components which have been used by over 100,000 cricket clubs around the UK for the play-cricket platform
+CoBooCo, UI/UX Developer                                                                              Feb 2014 – Aug 2014
+•	Updated the user flow of the existing product to improve the user journey
 
-#### TeamMunch: Team Lunches made easier
-Team Lunches made easier.  
-**[Hapi, Redis, Handlebars, OAuth, Stripe]**
+## Education
 
-#### ArtisTracker
-A web app that allows users to search for the latest music and pictures which have been uploaded to instagram and soundcloud by Artists. The website uses APIS from the two services to aggregate up-to-date information on a fan's favourite music artist.   
-**[Soundcloud API, Instagram API]**  
-![iphone copy](https://cloud.githubusercontent.com/assets/2305591/12433489/39876d96-bef9-11e5-8e79-c463ec90946e.png)
+**Founders & Coders**
+Sep 2015 – Jun 2016
+•	4-month, peer-led, Full Stack JavaScript programming course
+•	Spent the next six months in the space helping run the next course and built up a portfolio which includes:
+o	Spark: App to organise social events with friends
+o	Bidlt: Prototype management dashboard for Builders
+o	Inshallah: App connecting refugees in Calais to Professionals in the UK who want to help
+o	TeamMunch: Order Team Lunches together
+o	FASAPP: Shipping quote generator for Fine arts auctioneers
 
-#### Tuber  
-An app that animates a user's travel journey from one tube station to another.  
-**[Node, D3, Leaflet, TFL API]**  
-![imac copy](https://cloud.githubusercontent.com/assets/2305591/12433736/bd85ac10-befa-11e5-9463-073e8ff99fad.png)
+**Wembley High School**                                                                                       
+•	Graduated with A levels in Mathematics, Physics, Chemistry & Biology and an AS level in Art
 
-#### CreepyGit
-An app that provides visualisation of followers/following  on Github and the ability to follow back users that you are not currently following with a single click.  
-**[Node, D3, GitHub API]**
+## Teaching
 
-#### React Final Countdown
-A module built for React that allows developers to add a timer onto the page for checkout purposes.  
-**[Node, React, React-DOM]**
+I’ve helped facilitate the making of the course content alongside run the workshops at the different organisations listed below.
+•	Founders & Coders, Weekend Coders, Queen Mary University of London, Birkbeck University of London, Anna Freud Centre & Yoti
 
-#### [Property Funder (LBS Hackathon Winning Project)](http://www.thepropertyfunder.space/)
-A Crowdfunding website for the International property market.  
-**[Hapi, Redis, Leaflet, Charts.js]**  
-[Link](http://www.thepropertyfunder.space/)  
-![imacfunder](https://cloud.githubusercontent.com/assets/2305591/12434104/70d31cca-befc-11e5-9cb7-f8b0e989dc85.png)
+## Extra-Curricular
 
-#### Contributions to Open Source projects on GitHub
-In my spare time, I have helped out in the open source community by making pull requests and a few commits to various repos.  
+**National Beach Volleyball Referee**
+•	Officiated at London 2012 Olympics
+•	Currently tour UK and Europe as a referee on the national and international tours
 
-### Future
-##### If you've made it this far, you must have some questions! please feel free to drop me a message (sohilpandya@me dot com) or a [tweet](https://twitter.com/Sohil_is). I am Freelancer! Hire me! :smile:
+**Cricket**
+•	I’ve played cricket competitively since a young age. After finishing school, I spent approximately 3 years focusing on Cricket full-time and played for various teams including Surrey and Middlesex County 2nd XI and Age group. I still play cricket at a semi-professional level
+
+## Skills
+
+•	JavaScript, Swift, HTML, CSS
+o	git, scss, react, redux, elm, postgresql, redis, es6, node, hapi, express, Webpack, d3. 
